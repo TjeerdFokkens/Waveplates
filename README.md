@@ -12,7 +12,7 @@ The signal then meets a polarizer and reaches the detector.
 The second path does not have any plates, there is only a polarizer and a detector.
 
 
-In order to perform a Quantum State Tomography measurement, it is necessary to specify a complete set of 16 to be measured components.
+In order to perform a Quantum State Tomography measurement, it is necessary to specify a complete set of 16 to be measured components. A full library for constructing such a set and for the data analysis can be found at: https://github.com/afognini/Tomography
 An example for such a component is HH, where the horizontal polarisation is measured for both paths.
 Another example is HD, in which the horizontal component of the polarisation is measured in the first path, but the diagonal component is measured in the second path.
 
